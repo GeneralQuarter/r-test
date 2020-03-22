@@ -4,11 +4,11 @@ library("wordcloud")
 
 baseUrl <- "https://dadosabertos.camara.leg.br/api/v2"
 
-deputadoId <- "74847"
+deputadoId <- "92346"
 
-dataInicio <- "1990-01-01"
+dataInicio <- "2015-01-01"
 
-dataFim <- "1991-12-31"
+dataFim <- "2019-12-31"
 
 quantidadeItens <- "100"
 
